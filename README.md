@@ -1,4 +1,4 @@
-# 🛡️ Insurance Analysis: Profitability, Risk, and BI Automation
+# 🛡️ Insurance Dashboard Overview Analysis in Power BI: Profitability, Risk, and BI Automation
 
 ## 📌 Project Overview
 This project provides an end-to-end analytical solution for an insurance provider. It spans the entire data lifecycle: extracting insights using **SQL**, building predictive risk models with **Python**, and deploying a live, automated executive dashboard in **Power BI**. 
